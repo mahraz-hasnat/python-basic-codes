@@ -1,4 +1,4 @@
-#The Above function prints all of the prime factors of a given number.
+#The function below prints all of the prime factors of a given number.
 def print_prime_factors(number):
   # Start with two, which is the first prime
   factor = 2
